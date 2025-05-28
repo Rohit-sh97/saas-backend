@@ -31,8 +31,11 @@ coverage/
 dist/
 build/
 
+# Ignore environment files
 .env
 
+# Ignore specific HTML files
 payment.html
 
+# Ignore JavaScript files
 genrateSignature.js
