@@ -34,3 +34,5 @@ build/
 .env
 
 payment.html
+
+genrateSignature.js
